@@ -1,13 +1,12 @@
 {
-  "allowedIps": ["165.22.56.6"],
   "users": [
     {
-      "username": "user1",
-      "password": "password1"
+      "username": "fateaziz",
+      "code": "CRACKVIP"
     },
     {
       "username": "user2",
-      "password": "password2"
+      "code": "password2"
     }
   ]
 }
