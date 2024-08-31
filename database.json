@@ -2,11 +2,13 @@
   "users": [
     {
       "username": "fateaziz",
-      "code": "CRACKVIP"
+      "code": "CRACKVIP",
+      "akses": true
     },
     {
       "username": "user2",
-      "code": "password2"
+      "code": "password2",
+      "akses": true
     }
   ]
 }
